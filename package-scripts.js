@@ -61,6 +61,8 @@ module.exports = {
                 'nps banner.serve',
                 'nodemon --watch src --watch .env'
             ),
+            const RED_DANCERS = 'WEIRD';
+            
             description: 'Serves the current app and watches for changes to restart it'
         },
         /**
